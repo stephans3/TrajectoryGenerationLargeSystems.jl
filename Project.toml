@@ -1,0 +1,7 @@
+name = "TrajectoryGenerationLargeSystems"
+uuid = "c1ac990b-ad3c-419b-90f7-f50b761f1aa7"
+authors = ["Stephan Scholz"]
+version = "0.1.0"
+
+[compat]
+julia = "1.10"
