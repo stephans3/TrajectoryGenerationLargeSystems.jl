@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"Home","title":"Home","text":"CurrentModule = TrajectoryGenerationLargeSystems","category":"page"},{"location":"#TrajectoryGenerationLargeSystems","page":"Home","title":"TrajectoryGenerationLargeSystems","text":"","category":"section"},{"location":"","page":"Home","title":"Home","text":"Documentation for TrajectoryGenerationLargeSystems.","category":"page"},{"location":"","page":"Home","title":"Home","text":"","category":"page"},{"location":"","page":"Home","title":"Home","text":"Modules = [TrajectoryGenerationLargeSystems]","category":"page"}]
+}
